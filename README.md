@@ -1,6 +1,3 @@
-Kaif, tumhara format ekdum professional hai! Teacher ko yahi chahiye tha. Maine tumhare data aur results ke hisaab se saari details fill kar di hain.
-
-Ise pura copy karo aur apne GitHub ke README.md mein purana text hata kar ye naya wala paste kar do:
 
 Sentiment Analysis of Social Media Tweets
 (1) Problem Statement
