@@ -1,5 +1,7 @@
 
 Sentiment Analysis of Social Media Tweets
+
+
 (1) Problem Statement
 Social media platforms generate massive amounts of unstructured text data. Understanding the public sentiment (Positive, Negative, or Neutral) towards emerging technologies like Generative AI is crucial for businesses and researchers to gauge public perception and concerns.
 
